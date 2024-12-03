@@ -7,7 +7,26 @@
 <!--this is a reminder of how to put a comment in that you may want to remember. It does not appear on your website.-->
 <body>
 
-</h1>Practicing On My Own</body>h1>
+</h1>Practicing On My Own<h1>
+<div>
+    <p>Wish me luck as I attempt this on my own.</p>
+
+    <img src="computer.jpg"
+    alt="photo of my computer" />
+</div>
+
+<div>
+<h2> Building Confidence</h2>
+    <p>If I take it slow and don't get frustrated, I can do it.</p>
+
+    <img src="self-confidence.jpg"
+    alt="believe in yourself" />
+</div>
+
+
+
+
+<h3>How Am I Doing?</h3>
             
 </body>
 
